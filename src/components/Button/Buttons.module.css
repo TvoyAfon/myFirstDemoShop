@@ -1,0 +1,10 @@
+.nav_links{
+    @apply hover:text-red-500
+  }
+.nav_links_signup{
+   border:1px solid white;
+   padding:3px;
+   transition: all;
+   @apply hover:text-red-500;
+}
+

@@ -1,0 +1,9 @@
+.navbar{
+    @apply bg-black ;
+    flex-shrink: 0;
+}
+.nav_menu{
+    @apply flex justify-end items-center px-12 py-4
+     text-xl font-thin text-white transition-all 
+
+}
